@@ -49,7 +49,8 @@ The report is built on a single table containing the following fields:
 ## 📁 Project Structure
 
 ```
-├── Sales Dashboard.pbix   # Power BI report file
-├── screenshot.png       # Dashboard preview image
-└── README.md            # Project documentation
+├── Sales Dashboard.pbix                                 # Power BI report file
+├── screenshot.png                                      # Dashboard preview image
+└── README.md                                            # Project documentation
+└── Comparing Sales Data Across Multiple Regions.csv      # Data set file
 ```
