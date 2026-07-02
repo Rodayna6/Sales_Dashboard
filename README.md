@@ -49,7 +49,7 @@ The report is built on a single table containing the following fields:
 ## 📁 Project Structure
 
 ```
-├── 1st_dashboard.pbix   # Power BI report file
+├── Sales Dashboard.pbix   # Power BI report file
 ├── screenshot.png       # Dashboard preview image
 └── README.md            # Project documentation
 ```
